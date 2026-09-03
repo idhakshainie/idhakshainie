@@ -11,232 +11,128 @@ Associate Software Engineer • Full-Stack Developer • QA Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=38BDF8&lines=Associate+Software+Engineer;Full-Stack+Developer;React.js+Developer;Python+%26+Java+Developer;PHP+%26+MySQL+Developer;QA+%26+Software+Testing;Backend+Developer;Always+Building+%26+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&color=38BDF8&lines=Associate+Software+Engineer;Full-Stack+Developer;React.js+Developer;Java+%7C+Python+%7C+PHP;QA+%26+Software+Testing;Backend+%26+Database+Developer" />
 </p>
 
 <p align="center">
-Building practical software solutions with responsive interfaces, reliable backend systems,
-database-driven applications, and quality-focused development.
+Building practical, reliable, and user-focused software solutions.
 </p>
 
 <p align="center">
-  <a href="https://dinusha-showcase.vercel.app">🌐 Portfolio</a> •
+  <a href="https://dhakshainie-showcase.vercel.app">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/dhakshainie-ilangovan">LinkedIn</a> •
-  <a href="mailto:idhakshainie@gmail.com">Email</a> •
-  <a href="https://github.com/idhakshainie">GitHub</a>
+  <a href="mailto:idhakshainie@gmail.com">Email</a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-I'm **Dhakshainie Ilangovan**, an **Associate Software Engineer** from Sri Lanka with a strong interest in building reliable and user-focused software.
+I'm an **Associate Software Engineer** passionate about building modern web applications, backend systems, and database-driven solutions.
 
-My experience spans **full-stack web development, backend engineering, database systems, software testing, debugging, and responsive UI development**.
+My interests include **full-stack development, software testing, debugging, responsive UI development, and backend engineering**.
 
-I enjoy turning ideas into practical applications while continuously improving performance, usability, maintainability, and code quality.
-
-### 🚀 What I Work With
-
-* 💻 Full-Stack Web Development
-* ⚛️ React.js & Modern Frontend Development
-* 🔧 Backend & REST API Development
-* 🗄️ MySQL & MongoDB
-* 🧪 QA, Functional & UI Testing
-* 🐞 Debugging & Issue Resolution
-* 📱 Responsive & Cross-Browser Development
-* 🔗 Frontend–Backend Integration
+I enjoy creating software that is **clean, reliable, maintainable, and easy to use**.
 
 ---
 
-# 🧠 Engineering Mindset
+## 🛠️ Tech Stack
 
-```text
-PLAN → DESIGN → DEVELOP → TEST → DEBUG → IMPROVE
-```
-
-I believe great software should be:
-
-**Reliable • Maintainable • Scalable • Usable • Well-Tested**
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,php,js,ts,html,css" />
 </p>
 
-## ⚛️ Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 </p>
 
-## ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,dotnet" />
 </p>
 
-## 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
 </p>
 
-## 🧰 Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,pycharm,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,androidstudio,pycharm" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-## 🛍️ Gami Saviya.lk
+### 🛍️ Gami Saviya.lk
 
-### Rural Empowerment E-Commerce Platform
+**Full-Stack E-Commerce Platform**
 
-A full-stack e-commerce platform designed to support rural Sri Lankan artisans through digital storefronts and online commerce.
-
-**Highlights**
-
-* Multi-vendor product catalog
-* Wholesale & retail workflows
-* Product filtering and search
-* Shopping cart management
-* Order processing
-* Artisan-focused storefronts
-
-**Stack**
+A digital marketplace designed to support rural artisans with online storefronts and e-commerce functionality.
 
 `React.js` `Node.js` `Express` `MongoDB` `MySQL`
 
----
+### 🏋️ ELIX BAND & Gym Management System
 
-## 🏋️ ELIX BAND & Gym Management System
+**Web-Based Management Application**
 
-### Business & Management Web Application
+A responsive web application featuring membership management, class scheduling, trainer information, and dynamic backend functionality.
 
-A dynamic web platform combining responsive business features with gym management functionality.
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-**Highlights**
+### 💊 Pharmacy POS & Inventory System
 
-* Responsive website development
-* Membership management
-* Class scheduling
-* Trainer profiles
-* Administrative functionality
-* Dynamic backend integration
+**Java Business Application**
 
-**Stack**
-
-`HTML5` `CSS3` `JavaScript` `PHP` `MySQL`
-
----
-
-## 💊 Pharmacy POS & Inventory System
-
-### Java Business Application
-
-A Java-based application designed to support pharmacy operations, transaction processing, customer management, and inventory control.
-
-**Highlights**
-
-* Customer records
-* Prescription processing
-* Inventory management
-* Transaction handling
-* Stock tracking
-* Business application logic
-
-**Stack**
+A pharmacy management system supporting customer records, prescription processing, inventory tracking, and transactions.
 
 `Java` `MySQL`
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## Associate Software Engineer
+### Associate Software Engineer
 
 **Port City BPO | Sri Lanka**
 
 * Develop and maintain web-based software solutions
-* Build responsive and user-focused interfaces
-* Work with frontend and backend technologies
-* Perform debugging and issue resolution
-* Support software testing and quality improvements
-* Collaborate with team members on software development
+* Build responsive user interfaces
+* Work with frontend, backend, and database technologies
+* Perform debugging and software testing
+* Identify and resolve application issues
 
----
-
-## Software Engineering Intern — Completed
+### Software Engineering Intern
 
 **NETWORK WIZARD SDN BHD | Sri Lanka**
 
 * Developed responsive websites using HTML, CSS, JavaScript, and PHP
 * Performed functional, UI, and cross-browser testing
-* Identified and resolved technical issues
-* Implemented website updates and enhancements
-* Debugged frontend and backend functionality
-* Improved usability and responsive performance
-
-**Core Exposure**
-
-`HTML` `CSS` `JavaScript` `PHP` `QA Testing` `Debugging`
+* Identified and fixed technical issues
+* Implemented website improvements and enhancements
 
 ---
 
-# 🧪 QA & Software Quality
+## 🧪 QA & Software Quality
 
-I'm particularly interested in **Software Quality Assurance** and enjoy ensuring that applications are functional, consistent, and user-friendly.
+Strong interest in **Software Quality Assurance** with practical exposure to:
 
-```text
-TEST → FIND → ANALYZE → FIX → VERIFY
-```
+`Functional Testing` `UI Testing` `Responsive Testing`
+`Cross-Browser Testing` `Bug Identification` `Debugging` `Feature Validation`
 
-### QA Focus
-
-✅ Functional Testing
-✅ UI Testing
-✅ Responsive Testing
-✅ Cross-Browser Testing
-✅ Bug Identification
-✅ Debugging
-✅ Feature Validation
-✅ Usability Checks
-
-> **Build it. Test it. Break it. Improve it.**
+> **Build → Test → Fix → Improve**
 
 ---
 
-# 🧩 Core Strengths
-
-<p align="center">
-
-`Full-Stack Development`
-`React.js`
-`Python`
-`Java`
-`PHP`
-`JavaScript`
-`MySQL`
-`MongoDB`
-`REST APIs`
-`Software Testing`
-`Debugging`
-`Responsive Design`
-
-</p>
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=idhakshainie&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -249,43 +145,17 @@ TEST → FIND → ANALYZE → FIX → VERIFY
 
 ---
 
-# 📈 Contribution Activity
+## 🌐 Portfolio
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=idhakshainie&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🎯 Currently Learning
-
-```text
-Artificial Intelligence
-        ↓
-Cloud & DevOps
-        ↓
-Software Architecture
-        ↓
-Advanced Testing
-        ↓
-Backend Engineering
-        ↓
-Modern Web Technologies
-```
-
----
-
-# 🌐 Portfolio
-
-<p align="center">
-  <a href="https://dinusha-showcase.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://dhakshainie-showcase.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
 
@@ -294,14 +164,14 @@ Modern Web Technologies
 </a>
 
 <a href="mailto:idhakshainie@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/idhakshainie">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://dinusha-showcase.vercel.app">
+<a href="https://dhakshainie-showcase.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -309,14 +179,10 @@ Modern Web Technologies
 
 ---
 
-# 💡 Developer Philosophy
-
 <p align="center">
 
-### **“Think. Build. Test. Improve. Repeat.”**
+### 💡 **Build. Test. Improve. Repeat.**
 
-</p>
+⭐ Thanks for visiting my profile!
 
-<p align="center">
-⭐ Building better software, one project at a time.
 </p>
